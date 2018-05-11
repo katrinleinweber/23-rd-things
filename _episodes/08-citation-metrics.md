@@ -22,6 +22,7 @@ DOIs can be used to collect citation metrics about the use of a dataset or artic
 1. Start by watching this short 4.5min [video]() Persistent identifiers and data citation explained from the Netherlands. It gives you a succinct, clear explanation of how DOIs underpin data citation.
 2. Have a look at the Data citation poster (opens to an A4 size) - follow the arrows to see how DOIs are attached to data sets.  
 3. Let’s go to a CSIRO data record which shows how DOIs are used. Click on this DOI to ‘resolve’ the DOI and take us to the record: https://doi.org/10.4225/08/50F62E0D359D5.
+   (Please note: You may encounter the old resolver address with `dx.` in the middle, or the insecure address that with only `http`. All four variants resolve you to the same target in the end.)
 
 Click on both the Description and Data tabs and note how many times the DOI is used in this data record.  It will give you some ideas why DOIs are given such prominence.
 
