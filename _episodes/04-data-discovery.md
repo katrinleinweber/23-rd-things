@@ -18,7 +18,7 @@ Repositories enable discovery of data by publishing data descriptions ("metadata
 
 >## Explore Dataverse
 >* [Harvard Dataverse](https://dataverse.harvard.edu/)  is both open source research data repository software and a repository hosted by Harvard's Institute for Quantitative Social Science.
->* Click on this [Dataverse record: Replication Data for: What Are The Headwaters of Formal Savings? Experimental Evidence from Sri Lanka](http://dx.doi.org/10.7910/DVN/DGTAKN)
+>* Click on this [Dataverse record: Replication Data for: What Are The Headwaters of Formal Savings? Experimental Evidence from Sri Lanka](https://doi.org/10.7910/DVN/DGTAKN)
 > Have a close look at the record to see the ways this record is made discoverable and accessible.  Note how many times this dataset has been downloaded and how to cite this data.  We will look at data citation in more detail in Thing 7.
 >
 > Spend a few minutes exploring Dataverse:
