@@ -16,7 +16,7 @@ Challenge me: R, free GIS and Fusion are all available to tempt you for this Thi
 
 Getting started: Spatial data: maps and more
 The importance of spatial data is ever increasing. Many of the societal challenges we face today such as food scarcity and economic growth, are inherently linked to big spatial data. In fact it is often said that 80% of all research data has a geographic or spatial component. It’s useful then, for all of us to have an understanding of spatial data.
-Start by watching this incredible, inspiring video (3.59min) from the The University of Wollongong’s PetaJakata project.  It shows innovative ways of combining social media and geospatial data to save lives.
+Start by watching this incredible, inspiring video (3.59min) from the  University of Wollongong’s PetaJakata project.  It shows innovative ways of combining social media and geospatial data to save lives.
 Now read why GIS Mapping Technology is a Powerful Tool for Humanitarian Aid.
 Geospatial data is fundamental to Australia’s economic future. Check out this very short article about how GeoScience Australia is mapping the mineral potential of our continent - a world first!
 Just for fun:  enter your address in the Atlas of Living Australia and see what birds and plants have been reported in your street or suburb. You may be surprised at how ‘alive’ your street is!

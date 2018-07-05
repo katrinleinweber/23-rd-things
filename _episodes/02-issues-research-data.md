@@ -68,7 +68,7 @@ Effective data management for constantly updated data, such as that within ELNs,
 >└── myresearchB.do
 >~~~
 > 1. What would you suggest to your colleague to help improve the filenames she's chosen?
-> 2. What about the the file formats?  Should she consider different formats?
+> 2. What about the file formats?  Should she consider different formats?
 > 3. What data backup strategies would you recommend?
 {: .challenge}
 
