@@ -35,7 +35,7 @@ Controlled vocabularies significantly improve data discovery. It makes data more
 
 Think about (or find out!) what standard vocabularies are used, or could be used, by research groups in a discipline which interests you.  Note that there may be more than one vocabulary used in a discipline.
 
->#Explore controlled vocabularies
+># Explore controlled vocabularies
 >1. Choose a vocabulary and determine if it would be of use to people working in a specific field. Try JISC’s [Directory of Metadata Vocabularies](http://www.webarchive.org.uk/wayback/archive/20160101151732/http:/www.jiscdigitalmedia.ac.uk/guide/controlling-your-language-links-to-metadata-vocabularies) or University of North Carolina’s [Metadata Tutorial](http://guides.lib.unc.edu/c.php?g=8749&p=44502) to browse for discipline and general vocabularies.
 >2. Research Vocabularies Australia (RVA) is a service that helps you find, access, and reuse vocabularies for research. Go to the RVA Portal, use “Browse all Vocabularies” and see if your chosen vocabulary is included.
 
